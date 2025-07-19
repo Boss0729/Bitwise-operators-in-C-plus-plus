@@ -1,1 +1,1 @@
-# Bitwise-operators-in-C-plus-plus
+# Bitwise-operator-in-C-plus-plus
